@@ -62,4 +62,4 @@ just run in terminal
 
 ## Problems
 
-Currently social authentication is not working for desktop app, so dont mid if it throws error
+Currently social authentication is not working for desktop app, so dont mind if it throws error.
