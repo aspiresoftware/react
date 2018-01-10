@@ -49,10 +49,10 @@ just run in terminal
 ## Screen shots
 
 ### Web
-![alt web image not found](https://raw.githubusercontent.com/aspiresoftware/reactNative/master/readmeIMG/web.png)
+![alt web image not found](./src/assets/web.png)
 
 ### Desktop
-![alt desktop image not found](https://raw.githubusercontent.com/aspiresoftware/reactNative/master/readmeIMG/desktop.png)
+![alt desktop image not found](./src/assets/desktop.png)
 
 ## For more information and help visit
 
